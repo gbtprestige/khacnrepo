@@ -70,3 +70,8 @@ Email: contact@startarcoins.com
 Emergency email and marketing or position purpose, write to: notairebtc@yahoo.fr
 
 Legal Product and legit company on EVM , kharYsma Coins is include on Startarcoins Crypto Hub.
+
+Legal Disclaimer 
+The KharYsma Coins (KHACN) token is available in all jurisdictions except those where its distribution or use is prohibited by local regulations. Cryptocurrencies are highly speculative and involve risk of loss , including volatility and regulatory changes. No information provided herein constitutes financial or legal advice. Users are advised to research and personally assess risks before participating.
+
+KharYsma Coins and its teams assume no liability for losses or damages resulting from investment in or use of the token.
