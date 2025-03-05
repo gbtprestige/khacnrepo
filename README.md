@@ -17,8 +17,9 @@ KHACN is a groundbreaking **utility ERC20 token** rooted in the creative ecosyst
 `0x11c1b94294A7967092F747434dEE4876EcA5fD53`  
 **Etherscan link**: [Verify here](https://etherscan.io/token/0x11c1b94294a7967092f747434dee4876eca5fd53)  
 
-### 🌐 **Overview**  
-KHACN is a groundbreaking **utility ERC20 token** rooted in the creative ecosystem of international artist **KharYsma Arafat NZABA**. By anchoring tangible assets (music, paintings, books) to blockchain technology, KHACN redefines decentralized finance (DeFi) as a bridge between art and innovation.  
+### 🌐 **ROADMAP , AND MORE**  
+Roadmap is on our whitepaper .
+Airdrop and Ico info, write to: @gbtsince2012 (TELEGRAM, NO SPAMS PLEASE)
 
 **Smart Contract Address**:  
 `0x11c1b94294A7967092F747434dEE4876EcA5fD53`  
@@ -66,6 +67,6 @@ Email: contact@startarcoins.com
 
 (c) KHACN IS A TRADEMARK PROTECTD AND OWN BY COMPANY GROUPE BUSINESS THERAPIE , contact@groupe-businesstherapie.net
 
-Emergency email: notairebtc@yahoo.fr
+Emergency email and marketing or position purpose, write to: notairebtc@yahoo.fr
 
 Legal Product and legit company on EVM , kharYsma Coins is include on Startarcoins Crypto Hub.
