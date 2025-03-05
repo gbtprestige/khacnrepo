@@ -75,3 +75,29 @@ Legal Disclaimer
 The KharYsma Coins (KHACN) token is available in all jurisdictions except those where its distribution or use is prohibited by local regulations. Cryptocurrencies are highly speculative and involve risk of loss , including volatility and regulatory changes. No information provided herein constitutes financial or legal advice. Users are advised to research and personally assess risks before participating.
 
 KharYsma Coins and its teams assume no liability for losses or damages resulting from investment in or use of the token.
+
+# Method to Add KHACN (IN YOUR WALLET)
+General Steps :
+Open your wallet (e.g., MetaMask, Trust Wallet, Coin98).
+Go to "Add Token" (usually in settings or asset interface).
+Select Ethereum blockchain (KHACN is an ERC20 token).
+Enter details :
+Contract Address : 0x11c1b94294A7967092F747434dEE4876EcA5fD53
+Symbol : KHACN
+Decimals : 18 (standard for ERC20).
+
+# Example with MetaMask :
+Click "Assets" → "Add Token" .
+Select "Custom Token" .
+Input the contract address and click "Next".
+Confirm the symbol and decimals, then "Add Token".
+
+# Example with Trust Wallet :
+Go to "Menu" → "Add token" → "Custom token" .
+Enter the contract address , select Ethereum, then "Next".
+Validate details and click "Add".
+
+# Verification :
+Check the contract on Etherscan https://etherscan.io/token/0x11c1b94294a7967092f747434dee4876eca5fd53
+Ensure symbol and decimals match.
+⚠️ Warning : Only use verified addresses to avoid scams.
