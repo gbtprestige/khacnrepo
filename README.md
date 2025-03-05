@@ -1,4 +1,4 @@
-# khacnrepo
+# khacn repo
 repo of kharYsma Coins
 
 # KharYsma Coins (KHACN)  
