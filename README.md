@@ -1,2 +1,2 @@
 # khacnrepo
-repo
+repo of kharYsma Coins
