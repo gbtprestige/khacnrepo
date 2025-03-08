@@ -1,6 +1,10 @@
 # khacn repo
 repo of kharYsma Coins
 
+kharYsma Coins (khacn), ERC20, Ico Available on Private sales , hurry up , limited time ! on https://startarcoins.com
+
+See Video attach here https://www.youtube.com/watch?v=6gvQZvjlFSM
+
 # KharYsma Coins (KHACN)  
 ## Merging Art and Blockchain to Revolutionize DeFi  
 
