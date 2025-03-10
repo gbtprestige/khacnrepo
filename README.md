@@ -107,3 +107,28 @@ Validate details and click "Add".
 Check the contract on Etherscan https://etherscan.io/token/0x11c1b94294a7967092f747434dee4876eca5fd53
 Ensure symbol and decimals match.
 ⚠️ Warning : Only use verified addresses to avoid scams.
+
+# 📝 HOW TO BUY KHARYSMA COINS WITH PRIVATE ICO (FIRST ROUND-MANUEL SALES)
+
+Go buy your ethereum here https://www.binance.com/referral/earn-together/refertoearn2000usdc/claim?hl=en&ref=GRO_14352_8LVED&utm_medium=web_share_copy&utm_source=referralmode , or on any exchange,
+
+After purchasing Ethereum, follow these steps:
+
+Groupe Business Therapie Company, [10/03/2025 14:12]
+You can start investing from 10 usd (in eth)/
+Summary of the procedure:
+1- you must hold ethereum either by buying eth or by swapping eth,
+2-then, you send eth to our following address: 0x22C4B60Eae32A42b7518c7F0044d9592fb0882c2
+Minimum: 10 usd
+you also send the screenshot of your hash and send with the url to prove that it is you who sent the ether.
+3- In 72 hours maximum, you will receive your kharYsma Coins,
+You just have to follow the procedure of how to add the khacn as a custom token on your wallet to see them appear on your wallet. The link to know how to add the kharYsma Coins on your wallet is https://git.startarcoins,com  , remember, send your eth here: 0x22C4B60Eae32A42b7518c7F0044d9592fb0882c2
+
+Groupe Business Therapie Company, [10/03/2025 14:27]
+FOR ICO MANUAL PRIVATE SALES , SEND YOUR ETH HERE : 0x22C4B60Eae32A42b7518c7F0044d9592fb0882c2     , send us screenshot of sending with url proof, and you will receive your khacn. Email: contact@startarcoins.com
+or on telegram to: @gbtsince2012
+
+LIMITED TIME OFFER,
+
+## THANKS 
+
