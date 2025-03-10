@@ -5,6 +5,8 @@ kharYsma Coins (khacn), ERC20, Ico Available on Private sales , hurry up , limit
 
 See Video attach here https://www.youtube.com/watch?v=6gvQZvjlFSM
 
+# ATTENTION, ALWAYS VERIFY OFFICIAL EMAIL OF kharYsma Coins projects are: notairebtc@yahoo.fr  , or , contact@startarcoins.com
+
 # KharYsma Coins (KHACN)  
 ## Merging Art and Blockchain to Revolutionize DeFi  
 
